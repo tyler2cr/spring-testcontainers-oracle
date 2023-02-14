@@ -11,7 +11,7 @@ end-to-end test.
 
 # Tech stack
 
-- postgres
+- oracle
 - testcontainers
 - spring boot data jpa
 
